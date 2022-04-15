@@ -1,0 +1,40 @@
+seriously selesai itu 5
+literally posisi itu positive vibes
+
+so about segitiga
+    fomo i endup selesai
+        literally output itu ''
+        literally iInverse itu selesai - i
+        literally iFomo itu i
+        literally iInverseFomo itu iInverse
+
+        kalo posisi itu false
+            whichis iFomo itu iInverse
+            whichis iInverseFomo itu i
+        udahan
+
+        fomo j endup iInverseFomo
+            whichis output itu output + ' '
+        udahan
+
+        fomo k endup iFomo
+            whichis output itu output + '*'
+        udahan
+
+        kalo iFomo lebih gede 0
+            fomo l endup iFomo
+                kalo l lebih kecil iFomo
+                    whichis output itu output + '*'
+                udahan
+            udahan
+        udahan
+
+        spill output
+    udahan
+thats it sih
+
+call segitiga
+
+whichis posisi itu negative vibes
+
+call segitiga

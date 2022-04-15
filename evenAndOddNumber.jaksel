@@ -1,0 +1,9 @@
+fomo i endup 10
+    literally isEven itu i % 2
+
+    kalo isEven itu 0
+        spill i + ' even'
+    kalogak
+        spill i + ' odd'
+    udahan
+udahan
